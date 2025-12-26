@@ -1,6 +1,11 @@
 # PX4-SITL-Offboard-Control-Custom
 N shaped SITL of PX4 in Gazebo Harmonic <br>
-Tested on ROS2 humbles, Gazebo Harmonic, Ubuntu 22
+Tested on ROS2 humbles, Gazebo Harmonic, Ubuntu 22 <br>
+
+
+https://github.com/user-attachments/assets/13d14723-47ae-42f1-8d34-098748d52f35
+
+
 ## PX4-SITL Setup
 Follow the steps given here to setup SITL with XRCE DDS 
 https://kuat-telegenov.notion.site/How-to-setup-PX4-SITL-with-ROS2-and-XRCE-DDS-Gazebo-simulation-on-Ubuntu-22-e963004b701a4fb2a133245d96c4a247
